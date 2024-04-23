@@ -9,7 +9,7 @@ Then we will calculate the Euclidean distance from each color and find the short
 1. Color Detection in Real Time Using Webcam
 ---------------------------------------------
 
-![](Data/Real%20Time%20Colour%20Detection%20gif.gif)
+![](Data\Real%20time%20colour%20Detection%20gif.gif)
 
 2. Color Detection Of Image
 ---------------------------
